@@ -1,0 +1,6 @@
+C:\Users\Burak\source\repos\ReverGo\bin\Debug\ReverGo.exe.config
+C:\Users\Burak\source\repos\ReverGo\bin\Debug\ReverGo.exe
+C:\Users\Burak\source\repos\ReverGo\bin\Debug\ReverGo.pdb
+C:\Users\Burak\source\repos\ReverGo\obj\Debug\ReverGo.csprojAssemblyReference.cache
+C:\Users\Burak\source\repos\ReverGo\obj\Debug\ReverGo.exe
+C:\Users\Burak\source\repos\ReverGo\obj\Debug\ReverGo.pdb
